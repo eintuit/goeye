@@ -3,6 +3,8 @@ Go Eye, the best Go app on iOS.
 
 *Weiqi, Go, 围棋，圍棋, Igo, 囲碁, Baduk*
 
+Appstore: http://appstore.com/goeye
+
 URL: http://e-intuit.hk/goeye
 
 Video demo: http://www.youtube.com/watch?feature=player_embedded&v=m87hUbzr6O4
