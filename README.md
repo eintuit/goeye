@@ -9,6 +9,8 @@ URL: http://e-intuit.hk/goeye
 
 Video demo: http://www.youtube.com/watch?feature=player_embedded&v=m87hUbzr6O4
 
+Blog posts on Go Eye: http://go4go.net/go/goeye
+
 Descriptions
 ------------
 
