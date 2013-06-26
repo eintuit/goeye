@@ -44,6 +44,28 @@ Game protection, fine-grained game thumbnail in tableview.
 Jailbreak machines unfriendly. A great way to protect customer's right.
 And more ...
 
+Version 1.2.3 (June 18, 2013)
+-----------------------------
+New features:
+
+1. Add three new options: a. Support black&white background in go board; b. Support color board in book mode; c. Allow hiding coordinates in book page.
+
+2. Show semi-transparent stones to hint the variant points in the board.
+
+3. Show captured stone count in game info area.
+
+4. Respect PL(player turn) property for SGF.
+
+UI and performance improvements:
+1. Improvements on iPhone: Full screen display for go board in auto mode for iPhone to have more rooms for comment display. Tap the board to toggle full screen mode.
+
+2. Improve browser history performance.
+3. Improve recent/favorite game list performance.
+4. Allow deleting games in default group. Enhance UI for adding a group to make the newly created group easier to discover.
+
+Bug fixes:
+Fixed crash when failing to recognize a game image. Game information not updated when game content is updated.
+
 Version 1.2.2 (May 16, 2013)
 ----------------------------
 An urgent fix to crash bug caused by IOS 6+ compatibility issue when closing download/bookmark window in in-app web browser.
