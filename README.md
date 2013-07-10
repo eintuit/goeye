@@ -44,6 +44,22 @@ Game protection, fine-grained game thumbnail in tableview.
 Jailbreak machines unfriendly. A great way to protect customer's right.
 And more ...
 
+Version 1.3.0 (July 10, 2013)
+-----------------------------
+This is an major upgrade. 
+
+*Incredible great breakthrough in go game image recognition algorithms!* The new algorithm is "thinner, lighter, and faster". It improves the recognition speed by 3 to 5 times, and achieves better recognition rate. Thanks to those kind Go Eye users who sent us the problematic images, which helps us identify the problems and improve it. 
+
+Fetch Chinese game list and game records from go4go.net when the preferred language is set to Chinese. 
+
+Add a new option to disable editing if a game is locked (Previously it will only prompt for user to override the game with new changes). 
+
+Add search function for browser history/bookmarks. And persist the status of bookmark dialog. 
+
+Many UI polishes: Improve button icons, background, text font and color, etc., in game info panel, game list table entries, integrated go4go/live cast panel, and many other places to make the whole UI more consistent and elegant. 
+
+Bug fixes: Fix a hidden crash in image recognition, and a crash bug when browsing the last page in book mode.
+
 Version 1.2.3 (June 18, 2013)
 -----------------------------
 New features:
