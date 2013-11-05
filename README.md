@@ -47,16 +47,25 @@ And more ...
 Version 1.3.4(Nov. 5, 2013)
 -----------------------------
 New features: 
+
 1. Add end game scoring feature. 
+
 2. Support game transform with flipping and rotation. 
+
 3. Optimize the display of variants and comments to make it much more convenient to browse commented games. 
+
 4. Add confirmation for online game refreshing if game is modified. 
+
 5. Add back-to-main button in variant thumbnail list to quickly jump back to main game branch. 
+
 6. Support full screen display in in-app web browser. 
 
 Bug fixes: 
+
 1. Fix memory leaks. 
+
 2. Fix komi display bug. 
+
 3. Many small UI polishes to perfect each pixel.
 
 Version 1.3.3(Oct. 5, 2013)
@@ -68,29 +77,46 @@ Improve SGF parsing speed.
 Allow negative komi.
 
 Bug fixes
+
 1.	Fix crash bug when importing games from multiple files simultaneously.
+
 2.	Fix crash bug when moving a single game to a collapsed group.
+
 3.	Fix reversed capture number.
+
 4.	Fix not being able to input first white stone in handicap games.
+
 5.	Fix game information panel layout.
 
 Version 1.3.2(Sept. 11, 2013)
 -----------------------------
 
 Rich enhancements and new features:
+
 1. Support exporting batch of games to cloud drives.
+
 2. Support posting game image to Facebook groups. Tap Facebook post dialog title to choose group to post.
+
 3. Enable batch operations for deletion or movement on game list.
+
 4. Improve game importing speed by 50%.
+
 5. Dramatically speed up the game loading in "All Games" view. Now it loads instantly even for huge game collections.
+
 6. Add two options in settings to specify the groups for downloaded games and games recognized from images.
+
 7. Persist game display order inside a group after movements.
+
 8. Add board size edit in game info dialog.
 
 Bug fixes:
+
 1. Fix crashes in live broadcast game list when there is network connection error.
+
 2. Fix bug of reloading wrong game after switching games.
+
 3. Fix date not shown for some games.
+
 4. Fix Ko bug.
 
 
@@ -114,8 +140,11 @@ New features and changes:
 7. Handle Ko and forbidden points when editing games.
 
 Bug fixes:
+
 1. Fix comment text scrolling to invisible area when editing the comment.
+
 2. Fix some memory leaks and crash when supplying bad image url for recognition.
+
 3. Fix layout error when accepting SGF game after recognition.
 
 
