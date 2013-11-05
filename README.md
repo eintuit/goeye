@@ -59,7 +59,7 @@ Bug fixes:
 2. Fix komi display bug. 
 3. Many small UI polishes to perfect each pixel.
 
-Version 1.3.3 Release Notes
+Version 1.3.3(Oct. 5, 2013)
 -----------------------------
 
 UI redesign for iOS 7, compatible with iOS 5&6.
