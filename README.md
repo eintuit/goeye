@@ -44,6 +44,82 @@ Game protection, fine-grained game thumbnail in tableview.
 Jailbreak machines unfriendly. A great way to protect customer's right.
 And more ...
 
+Version 1.3.4(Nov. 5, 2013)
+-----------------------------
+New features: 
+1. Add end game scoring feature. 
+2. Support game transform with flipping and rotation. 
+3. Optimize the display of variants and comments to make it much more convenient to browse commented games. 
+4. Add confirmation for online game refreshing if game is modified. 
+5. Add back-to-main button in variant thumbnail list to quickly jump back to main game branch. 
+6. Support full screen display in in-app web browser. 
+
+Bug fixes: 
+1. Fix memory leaks. 
+2. Fix komi display bug. 
+3. Many small UI polishes to perfect each pixel.
+
+Version 1.3.3 Release Notes
+-----------------------------
+
+UI redesign for iOS 7, compatible with iOS 5&6.
+Help page updated.
+Improve SGF parsing speed.
+Allow negative komi.
+
+Bug fixes
+1.	Fix crash bug when importing games from multiple files simultaneously.
+2.	Fix crash bug when moving a single game to a collapsed group.
+3.	Fix reversed capture number.
+4.	Fix not being able to input first white stone in handicap games.
+5.	Fix game information panel layout.
+
+Version 1.3.2(Sept. 11, 2013)
+-----------------------------
+
+Rich enhancements and new features:
+1. Support exporting batch of games to cloud drives.
+2. Support posting game image to Facebook groups. Tap Facebook post dialog title to choose group to post.
+3. Enable batch operations for deletion or movement on game list.
+4. Improve game importing speed by 50%.
+5. Dramatically speed up the game loading in "All Games" view. Now it loads instantly even for huge game collections.
+6. Add two options in settings to specify the groups for downloaded games and games recognized from images.
+7. Persist game display order inside a group after movements.
+8. Add board size edit in game info dialog.
+
+Bug fixes:
+1. Fix crashes in live broadcast game list when there is network connection error.
+2. Fix bug of reloading wrong game after switching games.
+3. Fix date not shown for some games.
+4. Fix Ko bug.
+
+
+Version 1.3.1(Aug. 8, 2013)
+-----------------------------
+
+New features and changes:
+
+1. Enhance book view with better performance and animation. Add slider to support the navigation to a new book page quickly.
+
+2. Support game list navigation in game view without switching back to game list view.
+
+3.  Redesign the game view layout to make it cleaner and more convenient. Organize handy game actions into refined action popover menu. Enhance the UI for SGF text edit view and comment text edit view. Support locking/unlocking, starring/un-starring a game in action menu. Add refresh action to reload an online live cast game (in addition to using pull-to-reload gesture on board).
+
+4. Change setting options: Add a new option to remember last game viewing position. Move game number display option into global settings. Remove "Disable editing if locked" option and set it to true always.
+
+5. Optimize layout for iPad landscape mode. Display game comments and variant thumbnails in a single page when viewing commented games.
+
+6. Optimize for single-hand operation on iPhone. Support double tap to toggle zooming (in addition to pinch gesture for continuous zooming), when double tap gesture is not used for stone input or the game is locked for editing. Longer slider to make it easier to navigate a game with single hand.
+
+7. Handle Ko and forbidden points when editing games.
+
+Bug fixes:
+1. Fix comment text scrolling to invisible area when editing the comment.
+2. Fix some memory leaks and crash when supplying bad image url for recognition.
+3. Fix layout error when accepting SGF game after recognition.
+
+
+
 Version 1.3.0 (July 10, 2013)
 -----------------------------
 This is an major upgrade. 
